@@ -1,0 +1,10 @@
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\bin\Debug\netcoreapp2.0\MyAppTest.deps.json
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\bin\Debug\netcoreapp2.0\MyAppTest.runtimeconfig.json
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\bin\Debug\netcoreapp2.0\MyAppTest.runtimeconfig.dev.json
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\bin\Debug\netcoreapp2.0\MyAppTest.dll
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\bin\Debug\netcoreapp2.0\MyAppTest.pdb
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\obj\Debug\netcoreapp2.0\MyAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\obj\Debug\netcoreapp2.0\MyAppTest.AssemblyInfoInputs.cache
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\obj\Debug\netcoreapp2.0\MyAppTest.AssemblyInfo.cs
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\obj\Debug\netcoreapp2.0\MyAppTest.dll
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_1_Lab_Files\Assessemnt 1\MyAppTest\obj\Debug\netcoreapp2.0\MyAppTest.pdb
