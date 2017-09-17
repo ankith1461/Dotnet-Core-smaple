@@ -1,0 +1,2 @@
+MyAppTest -> Has Json Serilaisation and deserialisation in .NET Core.
+MyCoreWebApiSample -> Has WebApi sample in .NET Core.

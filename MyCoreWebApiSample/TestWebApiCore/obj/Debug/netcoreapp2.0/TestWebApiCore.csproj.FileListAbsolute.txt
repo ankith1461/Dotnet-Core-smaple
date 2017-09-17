@@ -1,0 +1,10 @@
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\bin\Debug\netcoreapp2.0\TestWebApiCore.deps.json
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\bin\Debug\netcoreapp2.0\TestWebApiCore.runtimeconfig.json
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\bin\Debug\netcoreapp2.0\TestWebApiCore.runtimeconfig.dev.json
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\bin\Debug\netcoreapp2.0\TestWebApiCore.dll
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\bin\Debug\netcoreapp2.0\TestWebApiCore.pdb
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\obj\Debug\netcoreapp2.0\TestWebApiCore.csproj.CoreCompileInputs.cache
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\obj\Debug\netcoreapp2.0\TestWebApiCore.AssemblyInfoInputs.cache
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\obj\Debug\netcoreapp2.0\TestWebApiCore.AssemblyInfo.cs
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\obj\Debug\netcoreapp2.0\TestWebApiCore.dll
+C:\Users\Anusha\Desktop\WebApi Edx course Material\Module_3_Lab_Files\Assement 1\MyCoreWebApiSample\TestWebApiCore\obj\Debug\netcoreapp2.0\TestWebApiCore.pdb
